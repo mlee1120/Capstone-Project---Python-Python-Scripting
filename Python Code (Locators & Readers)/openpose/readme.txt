@@ -5,3 +5,4 @@ code1 - 04_keypoints_from_images.py:
 
 Input file directory should contain a folder named input motion name.
 The folder named input motion name should contain two floders named front and back, containing all front-view images and all side-view images respectively.
+Some files from OpenPose were not uploaded. Please download those files from OpenPose Github [here](https://github.com/CMU-Perceptual-Computing-Lab/openpose) (Windows portable version).
