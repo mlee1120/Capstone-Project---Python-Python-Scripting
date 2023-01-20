@@ -1,0 +1,25 @@
+00 head
+01 upperchest
+02 right upper arm
+03 right lower arm
+04 right hand
+05 left upper arm
+06 left lower arm
+07 left hand
+08 hips
+09 right upper leg
+10 right lower leg
+11 right ankle
+12 left upper leg
+13 left lower leg
+14 left ankle
+15 right eye
+16 left eye
+17 right ear
+18 left ear
+19 left toes
+20 left toes 2
+21 left heel
+22 right toes
+23 right toes 2
+24 right heel

@@ -1,0 +1,23 @@
+00 hips
+01 right upper leg
+02 right lower leg
+03 right foot
+04 right toes
+05 left upper leg
+06 left lower leg
+07 left foot
+08 left toes
+09 spine
+10 chest
+11 upper chest
+12 right shoulder
+13 right upper arm
+14 right lower arm
+15 right hand
+16 left shoulder
+17 left upper arm
+18 left lower arm
+19 left hand
+20 neck
+21 head
+22 jaw

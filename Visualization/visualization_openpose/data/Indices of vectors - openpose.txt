@@ -1,0 +1,13 @@
+00 hips position
+01 right upper leg -> left upper leg
+02 right upper leg -> right lower leg
+03 right lower leg -> right heel
+04 right heel -> right toes
+05 left upper leg -> left lower leg
+06 left lower leg -> left heel
+07 left heel -> left toes
+08 right upper arm -> left upper arm
+09 right upper arm -> right lower arm
+10 right lower arm -> right hand
+11 left upper arm -> left lower arm
+12 left lower arm -> left hand
